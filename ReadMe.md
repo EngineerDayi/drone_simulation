@@ -1,4 +1,4 @@
-﻿# DroneKit ile Drone Simulasyon
+﻿# DroneKit ile Drone Simülasyon
 
 Bu repo Dronekit ile MissionPlanner üzerinden yazılan scriptleri simüle etmek için oluşturulmuştur.  Güncellenecektir.
 
